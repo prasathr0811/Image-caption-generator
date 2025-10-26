@@ -66,11 +66,12 @@ Scikit-learn
 Google Colab
 
 💡 Future Improvements
+
 Integrate semantic similarity scoring to measure caption diversity
+
 Upgrade to BLIP-2 for more accurate descriptions
-Deploy as a web app using Streamlit or Flask
-Add evaluation metrics like BLEU or ROUGE
 
 Deploy as a web app using Streamlit or Flask
 
 Add evaluation metrics like BLEU or ROUGE
+
