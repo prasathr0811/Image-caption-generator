@@ -14,8 +14,6 @@ An end-to-end deep learning pipeline that generates diverse, descriptive, and hi
   <img src="https://img.shields.io/badge/PyTorch-%3E%3D1.9-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch Version">
   &nbsp;
   <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface" alt="Hugging Face">
-  &nbsp;
-  <img src="https://img.shields.io/github/license/prasathr0811/Image-caption-generator?color=green" alt="License">
 </p>
 
 ---
@@ -159,8 +157,4 @@ Given an uploaded image of a forest or natural trail, the model produces diverse
 - [ ] **Web Deployment:** Build an interactive frontend using Streamlit or Gradio for web-based usage.
 - [ ] **Quantitative Evaluation:** Integrate BLEU, ROUGE, and CIDEr metrics to evaluate caption quality.
 
----
 
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to fork and build upon it!
